@@ -17,6 +17,7 @@ The editor is available in 4 flavors:
 2. [Docker container hosting web application](packages/docker/readme.docker.md)
 3. [Electron application](packages/electron/readme.electron.md)
 4. [VSCode extension](packages/vscode/readme.vscode.md)
+5. [Webstorm extension](packages/webstorm-jxbrowser/readme.webstorm.md)
 
 
 ## Percy Hydration Tools
@@ -107,7 +108,7 @@ The Percy editor can be run as a standalone desktop application;
 ## 6. Percy WebStorm Extension
 
 The Percy editor can be run as a WebStorm extension that provides an IDE editor for app config files following the Percy yaml format;
-[click here](packages/webstorm/readme.webstorm.md) for more information.
+[click here](packages/webstorm-jxbrowser/readme.webstorm.md) for more information.
 
 ## Usage
 
